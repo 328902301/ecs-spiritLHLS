@@ -15,7 +15,7 @@
 - **测试不想要在sudo权限或root权限下测试**
 - **想要测试更全面更迅速，想要自行编译测试**
 
-**请尝试 [https://github.com/oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) 进行测试**
+**请尝试 [https://github.com/oneclickvirt/ecs](https://github.com/oneclickvirt/ecs/blob/master/README_ZH.md) 进行测试**
 
 考虑到多系统多架构的普遍测试的需求，融合怪的Shell版本不再做新功能开发，仅作维护，各项测试已完全重构为[Golang版本]((https://github.com/oneclickvirt/ecs))，极端环境下可无额外的环境依赖，完全无第三方shell文件引用，支持非root环境测试等多项新功能。
 

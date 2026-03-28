@@ -15,7 +15,7 @@
 - **The test does not want to test under sudo or root privileges**
 - **Want to test more comprehensively and more quickly, want to compile the test by yourself**
 
-**Please try [https://github.com/oneclickvirt/ecs](https://github.com/oneclickvirt/ecs/blob/master/README_EN.md) for testing**
+**Please try [https://github.com/oneclickvirt/ecs](https://github.com/oneclickvirt) for testing**
 
 **First time users of this program are advised to check the instructions to avoid not being able to read the test program: [Jump](https://github.com/oneclickvirt/ecs/blob/master/README_NEW_USER.md)**
 

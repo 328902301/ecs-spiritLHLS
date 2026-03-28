@@ -15,7 +15,7 @@
 - テストは、sudo や root 権限でテストしたくない。
 - より包括的かつ迅速にテストを行いたい、自分でテストをコンパイルしたい。
 
-**テストには [https://github.com/oneclickvirt/ecs](https://github.com/oneclickvirt/ecs/blob/master/README_JP.md) をご利用ください**
+**テストには [https://github.com/oneclickvirt/ecs](https://github.com/oneclickvirt/ecs) をご利用ください**
 
 マルチシステム・マルチアーキテクチャに対応したユニバーサルテストのニーズを考慮し、Fusion MonsterのShellバージョンは新機能の開発用ではなく、メンテナンス用となり、テストはGolangバージョンに完全にリファクタリングされ、環境依存の追加、サードパーティのシェルファイルの参照、非root環境でのテストのサポートなど、多くの新機能が追加され、極端な環境でも使用できるようになりました。
 
